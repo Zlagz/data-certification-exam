@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": " Positive as its coeff is positive\n",
+    "T_STAT": " 1.82\nIt's the coef over the standard error.\n",
+    "P_VALUE": "\nThe pvalue of the median age is above 0.05 so it is not statistically significant at the 95% conf level. \nFor the 90% level, the p value is above 0.1 however the t stat is above 1.65 which is contridactory, so not sure for the 90% level. That may come from the fact we only have 12 rows of data. \nI would still say that the median age is not statistically significant neither at 95% nor at 96%.\n",
+    "INCREASE": "\nHolding all other regressors constant, the total number of incidents decrease by 2115 when the share of families with a married couple increases by 1 percentage point in the district.\n",
+    "LIMITATIONS": "\nWe do not have enough data in order to train/test split the data and we are also overfitting the model\n"
+}
